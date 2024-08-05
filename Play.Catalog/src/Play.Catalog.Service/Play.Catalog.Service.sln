@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Catalog.Service", "Play.Catalog.Service.csproj", "{4F5A6EF9-B403-4446-AC73-251D6FF06FE2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Catalog.Contracts", "..\Play.Catalog.Contracts\Play.Catalog.Contracts.csproj", "{EE00CEBD-60BD-4070-ADF2-5A079B044BB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F5A6EF9-B403-4446-AC73-251D6FF06FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F5A6EF9-B403-4446-AC73-251D6FF06FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F5A6EF9-B403-4446-AC73-251D6FF06FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE00CEBD-60BD-4070-ADF2-5A079B044BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE00CEBD-60BD-4070-ADF2-5A079B044BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE00CEBD-60BD-4070-ADF2-5A079B044BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE00CEBD-60BD-4070-ADF2-5A079B044BB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

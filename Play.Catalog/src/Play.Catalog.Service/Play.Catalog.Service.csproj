@@ -15,4 +15,6 @@
     <ProjectReference Include="..\Play.Catalog.Contracts\Play.Catalog.Contracts.csproj" />
   </ItemGroup>
 
+
+
 </Project>
